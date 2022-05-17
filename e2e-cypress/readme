@@ -1,0 +1,53 @@
+Front automation 
+
+This project was create for the program QA Buddy Program
+
+Index
+
+Start
+Run
+Report
+
+Features
+-Automation website https://todoist.com/ 
+-Base on JavaScript 
+-FrameWork Cypress
+-End to End test
+
+
+For this project excution ist requiered to had installed npm ... ,  next describe the documents that had been modify for easy compression
+
+cypress.env.json
+It contains the information of the user that its used for the tests
+
+cypress.json
+It contains url for the sistem under test, this file could containt more information
+
+jsconfig.json 
+Add pakege for show in the IDE more information about Cypress
+
+Support (Directory)
+commands.js 
+This file contains the command for all the test that required be loggin for excecute
+
+Integration(Directory)
+Activitys(Directory)
+activities.spec.js
+It contains the test for the 
+
+commands.js
+THis file had function to access the sistem
+
+
+
+
+
+
+
+
+Revision
+
+Version: 1.0
+Generado: Gerado Ortega Pedroza
+Revision: 
+
