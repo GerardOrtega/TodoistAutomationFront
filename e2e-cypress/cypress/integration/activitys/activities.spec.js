@@ -1,4 +1,4 @@
-describe ('Task manager', () => {
+describe('Task manager', () => {
     beforeEach(() => {
       cy.login();
       cy.visit('/app/today');
