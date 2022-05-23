@@ -18,6 +18,7 @@ describe ('Loggin Page', () => {
        cy.get('@logginButton')
        .click()
        .then(()=>{
+
         debugger;
        });
        cy.url().should('include','/auth/login')
